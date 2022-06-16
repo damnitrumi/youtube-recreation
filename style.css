@@ -26,7 +26,7 @@ header{
 .header-left{
     display: flex;
     align-items: center;
-    margin-bottom: 3px; /*Só pra aumentar o tamanho do container*/
+    margin-bottom: 3px; 
 }
 
 .header-left .material-icons{
@@ -46,7 +46,7 @@ header{
     display: flex;
     align-items: center;
     flex: 0 1 720px;
-    margin-bottom: 3px; /*Só pra aumentar o tamanho do container*/
+    margin-bottom: 3px; 
 }
 
 .header-middle form{
@@ -94,7 +94,7 @@ header{
     align-items: center;
     flex: 0 1 180px;
     justify-content: space-between;
-    margin-bottom: 3px; /*Só pra aumentar o tamanho do container*/
+    margin-bottom: 3px; 
 }
 
 .header-right .material-icons{
@@ -126,11 +126,6 @@ header{
 .active p{
     color: black;
 }
-
-/*.active{
-    background-color: blueviolet;
-}*/
-
 
 .main-options{
     padding: 13px 0;   
@@ -213,7 +208,6 @@ header{
 .filter ul{
     list-style-type: none;
     display: flex;
-    /*flex-wrap: wrap;*/ /*AQUIIIIIIIIIIIIIIIIIIIIIIIIIIIIII*/
     padding: 0 20px;
 }
 
