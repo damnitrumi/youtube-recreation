@@ -1,0 +1,1 @@
+Recriação do layout da página principal do Youtube, feita no início dos meus estudos com html e css, não interativa e não responsiva.
